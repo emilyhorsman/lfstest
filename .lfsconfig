@@ -1,2 +1,2 @@
 [lfs]
-	lfs.fetchinclude=
+	fetchinclude =
