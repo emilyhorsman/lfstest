@@ -1,2 +1,2 @@
 [lfs]
-	url = !bash -c 'echo "$LFSURL"'
+	url = "${LFS_URL}"
